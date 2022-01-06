@@ -3,6 +3,7 @@
 My name is Gavri Kepets, and welcome to my Github profile. 
 
 While many of my projects are on here, I also have a small blog that I am working on!
+
 **Visit [gkgkgkgk.github.io](https://gkgkgkgk.github.io/)** to see some of the other projects I am currently working on.
 
 Coursework:
