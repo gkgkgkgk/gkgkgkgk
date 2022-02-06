@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Gavri Kepets, and welcome to my Github profile. 
+My name is Gavri Kepets, and I am currently a Junior studying Electrical Engineering at The Cooper Union.
 
 While many of my projects are on here, I also have a small blog that I am working on.
 
