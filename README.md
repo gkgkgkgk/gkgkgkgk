@@ -6,7 +6,7 @@ While many of my projects are on here, I also have a small blog that I am workin
 
 **Visit [gkgkgkgk.github.io](https://gkgkgkgk.github.io/)** to see some of the other projects I am currently working on.
 
-Coursework:
+Here are some of my projects from school:
 * [DSA I](https://github.com/gkgkgkgk/ECE264-DSA) / [DSA II](https://github.com/gkgkgkgk/ECE365-DSAII) (C++)
 * [Databases](https://github.com/gkgkgkgk/nodesql) (JS/Python)
 * [Operating Systems](https://github.com/gkgkgkgk/ECE357-OS) (C)
