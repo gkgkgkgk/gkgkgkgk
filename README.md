@@ -12,5 +12,5 @@ Coursework:
 * [Operating Systems](https://github.com/gkgkgkgk/ECE357-OS) (C)
 * [Digital Signal Processing](https://github.com/gkgkgkgk/ECE310-DSP) (Matlab)
 * [Signals](https://github.com/gkgkgkgk/ECE211) (Matlab)
-* [Probability Models and Stochastic Processes](https://github.com/gkgkgkgk/ECE302-ProbModels) (Matlab)
 * [Natural Language Processing](https://github.com/gkgkgkgk/ECE467-NLP) (Python)
+* [Probability Models and Stochastic Processes](https://github.com/gkgkgkgk/ECE302-ProbModels) (Matlab)
