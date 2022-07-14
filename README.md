@@ -14,3 +14,4 @@ Here are some of my projects from school:
 * [Signals](https://github.com/gkgkgkgk/ECE211) (Matlab)
 * [Natural Language Processing](https://github.com/gkgkgkgk/ECE467-NLP) (Python)
 * [Probability Models and Stochastic Processes](https://github.com/gkgkgkgk/ECE302-ProbModels) (Matlab)
+* [Junior Lab - Building a Power Inverter](https://github.com/gkgkgkgk/jlab)
