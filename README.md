@@ -1,10 +1,10 @@
 ### Hello 👋
 
-My name is Gavri Kepets, and I am currently a Senior studying Electrical Engineering at The Cooper Union.
+My name is Gavri Kepets, and I am currently a Master's student studying Electrical Engineering at The Cooper Union.
 
 While many of my projects are on here, I also have a small blog that I am working on.
 
-**Visit [gkgkgkgk.github.io](https://gkgkgkgk.github.io/)** to see some of the other projects I am currently working on.
+**Visit [gkgkgkgk.github.io](https://gkgkgkgk.github.io/)** to see some of the other projects I am currently working on, and [pathplanning.online](https://pathplanning.online) to see my Senior Project.
 
 Here are some of my projects from school:
 * [DSA I](https://github.com/gkgkgkgk/ECE264-DSA) / [DSA II](https://github.com/gkgkgkgk/ECE365-DSAII) (C++)
