@@ -13,5 +13,5 @@ Here are some of my projects from school:
 * [Operating Systems](https://github.com/gkgkgkgk/ECE357-OS) (C)
 * [Digital Signal Processing](https://github.com/gkgkgkgk/ECE310-DSP) (Matlab)
 * [DSA I](https://github.com/gkgkgkgk/ECE264-DSA) / [DSA II](https://github.com/gkgkgkgk/ECE365-DSAII) (C++)
-* 
+
 Visit **[gkgkgkgk.github.io](https://gkgkgkgk.github.io/)** to see some of the other projects I am currently working on.
