@@ -4,7 +4,7 @@ My name is Gavri Kepets, and I am currently a Master's student studying Electric
 
 My Master's Thesis, called [ApolloSim](https://github.com/gkgkgkgk/ApolloSim), is a research project on LiDAR Simulation.
 
-My Senior Project, called PB*: Preference-Based Path-Planning for Autonomous Robots, can be viewed at [pathplanning.online](https://pathplanning.online).
+__My Senior Project, called PB*: Preference-Based Path-Planning for Autonomous Robots, can be viewed at [pathplanning.online](https://pathplanning.online).__
 
 Here are some of my projects from school:
 * [NodeSQL: A node-based SQL query builder](https://github.com/gkgkgkgk/nodesql) (JS/Python)
