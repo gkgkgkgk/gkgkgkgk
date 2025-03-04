@@ -1,7 +1,8 @@
 ### Hello 👋
 
-My name is Gavri Kepets, and I am currently a Master's student studying Electrical Engineering at The Cooper Union.
+My name is Gavri Kepets, and I am currently a Senior Associate Full Stack Engineer at Bank of New York. I work as part of the platform team in the company's AI Hub.
 
+I graduated from Cooper Union in 2024 with a Master's degree in Computer Engineering and in 2023 with a Bachelor's degree in Electrical Engineering.
 My Master's Thesis, called [ApolloSim](https://github.com/gkgkgkgk/ApolloSim), is a research project on LiDAR Simulation.
 
 __My Senior Project, called PB*: Preference-Based Path-Planning for Autonomous Robots, can be viewed at [pathplanning.online](https://pathplanning.online).__
